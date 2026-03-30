@@ -6,13 +6,16 @@
 
   <h3 align="center">Software Developer & Founder building clean, practical, and modern digital products.</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=620&size=24&duration=2800&pause=900&color=4B5563&center=true&vCenter=true&width=620&height=45&lines=Software+Developer;Founder;Building+products;Solving+real+problems;Shipping+useful+software)](https://git.io/typing-svg)
-
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=620&size=24&duration=2800&pause=900&color=4B5563&center=true&vCenter=true&width=620&height=45&lines=Software+Developer;Founder;Buildi
+  ng+products;Solving+real+problems;Shipping+useful+software" alt="Typing SVG" />
+    </a>
+  </p>
 
   <p align="center">
     I build web applications, tools, and product-driven software focused on real-world usefulness, clean code, and continuous growth.
   </p>
-
 
   ---
 
@@ -54,5 +57,5 @@
   </p>
 
   <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4B5563,100:e8eaed&section=footer" />
-</div>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:4B5563,100:E8EAED&section=footer" />
+  </div>
