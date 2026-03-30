@@ -6,12 +6,7 @@
 
   <h3 align="center">Software Developer & Founder building clean, practical, and modern digital products.</h3>
 
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Founder;Building%20products;Solving%20real%20problems;Shipping%20useful%20software&font=Fira%20Code&center=true&width=520&hei
-  ght=45&color=4B5563&size=24&duration=2800&pause=900">
-    </a>
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=620&size=24&duration=2800&pause=900&color=4B5563&center=true&vCenter=true&width=620&height=45&lines=Software+Developer;Founder;Building+products;Solving+real+problems;Shipping+useful+software)](https://git.io/typing-svg)
 
 
   <p align="center">
