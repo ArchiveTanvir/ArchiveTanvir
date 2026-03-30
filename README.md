@@ -53,7 +53,7 @@ I enjoy turning ideas into real products, solving meaningful problems, and impro
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<a href="https://t.me/ArchiveTanvir">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
