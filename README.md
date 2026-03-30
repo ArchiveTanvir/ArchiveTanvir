@@ -8,8 +8,8 @@
 
   <p align="center">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=4B5563&center=true&vCenter=true&width=620&lines=Software+Developer;Founder;Building+products;Solving+prob
-  lems;Shipping+software"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=4B5563&center=true&vCenter=true&width=520&lines=Software+Developer;Founder;Building+products;Solving+proble
+  ms;Shipping+software"
       alt="Typing SVG"
     />
   </p>
